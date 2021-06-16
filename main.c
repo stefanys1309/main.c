@@ -1,6 +1,9 @@
-int i;
-for (i = 0 ; i < 10 ; i ++)
-for (i = 0 ; i < 32 ; i ++)
+int main()
 {
-printf ( " Holberton /n " );
-printf ( " Hello School /n " );
+  int i;
+  for (i = 0; i < 10; i++)
+  {
+    printf("Hello School\n");
+  }
+  return 0;
+}
